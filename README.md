@@ -44,3 +44,6 @@ Format:
 <!--end:script-->
 
 List is auto generated, run `pnpm dev` if contributing.
+
+- `firefox-furry[-dev]` by [LuxxArt](https://luxxart.carrd.co/)
+- Firefox is a trademark of the Mozilla Foundation
