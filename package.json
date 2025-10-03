@@ -1,0 +1,12 @@
+{
+  "name": "md-emojis",
+  "private": true,
+  "scripts": {
+    "dev": "tsx watch --include \"./emojis/**/*\" ./.scripts/readme.mts"
+  },
+  "packageManager": "pnpm@10.5.2",
+  "devDependencies": {
+    "@types/node": "^24.6.2",
+    "tsx": "^4.20.6"
+  }
+}
