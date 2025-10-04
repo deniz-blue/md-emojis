@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg>
+<svg
+    width="500"
+    height="500"
+    viewBox="0 0 500 500"
+    xmlns="http://www.w3.org/2000/svg"
+    fill="none"
+>
+    <desc>
+        Emmengard's Plural Rings SVG recreation by deniz.blue
+    </desc>
+    <defs>
+        <linearGradient id="top" gradientTransform="rotate(90 0.5 0.5)">
+            <stop offset=".1" stop-color="#f59f00" stop-opacity="1" />
+            <stop offset=".5" stop-color="#f59f00" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="left" gradientTransform="rotate(0 0.5 0.5)">
+            <stop offset=".1" stop-color="#37b24d" stop-opacity="1" />
+            <stop offset=".5" stop-color="#37b24d" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="right" gradientTransform="rotate(180 0.5 0.5)">
+            <stop offset=".1" stop-color="#f03e3e" stop-opacity="1" />
+            <stop offset=".5" stop-color="#f03e3e" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="bottom" gradientTransform="rotate(270 0.5 0.5)">
+            <stop offset=".1" stop-color="#1c7ed6" stop-opacity="1" />
+            <stop offset=".5" stop-color="#1c7ed6" stop-opacity="0" />
+        </linearGradient>
+
+        <g id="rings">
+            <circle r="150" cx="0" cy="-100" />
+            <circle r="150" cx="100" cy="0" />
+            <circle r="150" cx="-100" cy="0" />
+            <circle r="150" cx="0" cy="100" />
+        </g>
+
+        <mask id="rings-mask">
+            <use
+                href="#rings"
+                fill="white"
+            />
+        </mask>
+
+        <g id="rings-rect">
+            <rect
+                transform="translate(250 250) scale(0.9)"
+                x="-250"
+                y="-250"
+                width="500"
+                height="500"
+                mask="url(#rings-mask)"
+            />
+        </g>
+    </defs>
+
+    <use
+        href="#rings-rect"
+        fill="white"
+    />
+
+    <use
+        href="#rings-rect"
+        fill="url(#top)"
+    />
+    <use
+        href="#rings-rect"
+        fill="url(#left)"
+    />
+    <use
+        href="#rings-rect"
+        fill="url(#bottom)"
+    />
+    <use
+        href="#rings-rect"
+        fill="url(#right)"
+    />
+
+    <use
+        transform="translate(250 250) scale(0.9)"
+        href="#rings"
+        stroke="black"
+        stroke-width="5"
+    />
+</svg>

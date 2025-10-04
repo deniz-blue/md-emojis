@@ -2,7 +2,9 @@
 
 Custom markdown emojis/icons for personal use
 
-Modified SVGs by hand: `therian-*`, `modfest`, `modrinth`
+Modified SVGs by hand: `therian`, `modfest`, `modrinth`
+
+Handmade SVGs: `plurality-simple`, `plurality-colors`
 
 Feel free to PR with new stuff :3
 
@@ -36,6 +38,7 @@ Format:
 | <img height="24" align="center" src="./emojis/osu-outline-black.svg"> | `osu-outline-black.svg` | [Link](./emojis/osu-outline-black.svg) |
 | <img height="24" align="center" src="./emojis/osu-outline-white.svg"> | `osu-outline-white.svg` | [Link](./emojis/osu-outline-white.svg) |
 | <img height="24" align="center" src="./emojis/osu.png"> | `osu.png` | [Link](./emojis/osu.png) |
+| <img height="24" align="center" src="./emojis/plurality-colors.svg"> | `plurality-colors.svg` | [Link](./emojis/plurality-colors.svg) |
 | <img height="24" align="center" src="./emojis/plurality-simple.svg"> | `plurality-simple.svg` | [Link](./emojis/plurality-simple.svg) |
 | <img height="24" align="center" src="./emojis/spigot.png"> | `spigot.png` | [Link](./emojis/spigot.png) |
 | <img height="24" align="center" src="./emojis/thetadelta-black.svg"> | `thetadelta-black.svg` | [Link](./emojis/thetadelta-black.svg) |
@@ -46,4 +49,4 @@ Format:
 List is auto generated, run `pnpm dev` if contributing.
 
 - `firefox-furry[-dev]` by [LuxxArt](https://luxxart.carrd.co/)
-- Firefox is a trademark of the Mozilla Foundation
+- `plurality-colors` design by [Emmengard&](https://pluralpedia.org/w/Emmengard%27s_Plural_Rings)
