@@ -60,6 +60,13 @@
     />
 
     <use
+        transform="translate(250 250) scale(0.9)"
+        href="#rings"
+        stroke="white"
+        stroke-width="30"
+    />
+
+    <use
         href="#rings-rect"
         fill="url(#top)"
     />
@@ -80,6 +87,6 @@
         transform="translate(250 250) scale(0.9)"
         href="#rings"
         stroke="black"
-        stroke-width="5"
+        stroke-width="10"
     />
 </svg>
