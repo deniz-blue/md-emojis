@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg>
+<svg
+    width="24"
+    height="24"
+    viewBox="0 0 532 532"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    fill="#09f"
+>
+    <g id="a">
+        <g id="b">
+            <path id="c" d="m165 32c-57 24-105 69-131 127l248-46" />
+            <use transform="rotate(45,266,266)" xlink:href="#c" />
+        </g>
+        <use transform="rotate(90,266,266)" xlink:href="#b" />
+    </g>
+    <use transform="rotate(180,266,266)" xlink:href="#a" />
+</svg>

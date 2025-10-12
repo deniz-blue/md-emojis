@@ -22,17 +22,8 @@ Format:
 
 | Icon  | ID   | Link |
 | :---: | :--- | :--- |
-| <img height="24" align="center" src="./emojis/firefox-dev.svg"> | `firefox-dev.svg` | [Link](./emojis/firefox-dev.svg) |
-| <img height="24" align="center" src="./emojis/firefox-furry-dev.png"> | `firefox-furry-dev.png` | [Link](./emojis/firefox-furry-dev.png) |
-| <img height="24" align="center" src="./emojis/firefox-furry.png"> | `firefox-furry.png` | [Link](./emojis/firefox-furry.png) |
-| <img height="24" align="center" src="./emojis/firefox.svg"> | `firefox.svg` | [Link](./emojis/firefox.svg) |
-| <img height="24" align="center" src="./emojis/hangar.png"> | `hangar.png` | [Link](./emojis/hangar.png) |
-| <img height="24" align="center" src="./emojis/lodestone.png"> | `lodestone.png` | [Link](./emojis/lodestone.png) |
+| <img height="24" align="center" src="./emojis/aperture.svg"> | `aperture.svg` | [Link](./emojis/aperture.svg) |
 | <img height="24" align="center" src="./emojis/mdn.svg"> | `mdn.svg` | [Link](./emojis/mdn.svg) |
-| <img height="24" align="center" src="./emojis/minecraft.png"> | `minecraft.png` | [Link](./emojis/minecraft.png) |
-| <img height="24" align="center" src="./emojis/minecraft.webp"> | `minecraft.webp` | [Link](./emojis/minecraft.webp) |
-| <img height="24" align="center" src="./emojis/modfest.svg"> | `modfest.svg` | [Link](./emojis/modfest.svg) |
-| <img height="24" align="center" src="./emojis/modrinth.svg"> | `modrinth.svg` | [Link](./emojis/modrinth.svg) |
 | <img height="24" align="center" src="./emojis/oneshot-sun-broken.png"> | `oneshot-sun-broken.png` | [Link](./emojis/oneshot-sun-broken.png) |
 | <img height="24" align="center" src="./emojis/oneshot-sun.png"> | `oneshot-sun.png` | [Link](./emojis/oneshot-sun.png) |
 | <img height="24" align="center" src="./emojis/osu-outline-black.svg"> | `osu-outline-black.svg` | [Link](./emojis/osu-outline-black.svg) |
@@ -40,9 +31,19 @@ Format:
 | <img height="24" align="center" src="./emojis/osu.png"> | `osu.png` | [Link](./emojis/osu.png) |
 | <img height="24" align="center" src="./emojis/plurality-colors.svg"> | `plurality-colors.svg` | [Link](./emojis/plurality-colors.svg) |
 | <img height="24" align="center" src="./emojis/plurality-simple.svg"> | `plurality-simple.svg` | [Link](./emojis/plurality-simple.svg) |
-| <img height="24" align="center" src="./emojis/spigot.png"> | `spigot.png` | [Link](./emojis/spigot.png) |
 | <img height="24" align="center" src="./emojis/thetadelta-black.svg"> | `thetadelta-black.svg` | [Link](./emojis/thetadelta-black.svg) |
 | <img height="24" align="center" src="./emojis/thetadelta-white.svg"> | `thetadelta-white.svg` | [Link](./emojis/thetadelta-white.svg) |
+| <img height="24" align="center" src="./emojis/mc/hangar.png"> | `mc/hangar.png` | [Link](./emojis/mc/hangar.png) |
+| <img height="24" align="center" src="./emojis/mc/lodestone.png"> | `mc/lodestone.png` | [Link](./emojis/mc/lodestone.png) |
+| <img height="24" align="center" src="./emojis/mc/minecraft.png"> | `mc/minecraft.png` | [Link](./emojis/mc/minecraft.png) |
+| <img height="24" align="center" src="./emojis/mc/minecraft.webp"> | `mc/minecraft.webp` | [Link](./emojis/mc/minecraft.webp) |
+| <img height="24" align="center" src="./emojis/mc/modfest.svg"> | `mc/modfest.svg` | [Link](./emojis/mc/modfest.svg) |
+| <img height="24" align="center" src="./emojis/mc/modrinth.svg"> | `mc/modrinth.svg` | [Link](./emojis/mc/modrinth.svg) |
+| <img height="24" align="center" src="./emojis/mc/spigot.png"> | `mc/spigot.png` | [Link](./emojis/mc/spigot.png) |
+| <img height="24" align="center" src="./emojis/firefox/firefox-dev.svg"> | `firefox/firefox-dev.svg` | [Link](./emojis/firefox/firefox-dev.svg) |
+| <img height="24" align="center" src="./emojis/firefox/firefox-furry-dev.png"> | `firefox/firefox-furry-dev.png` | [Link](./emojis/firefox/firefox-furry-dev.png) |
+| <img height="24" align="center" src="./emojis/firefox/firefox-furry.png"> | `firefox/firefox-furry.png` | [Link](./emojis/firefox/firefox-furry.png) |
+| <img height="24" align="center" src="./emojis/firefox/firefox.svg"> | `firefox/firefox.svg` | [Link](./emojis/firefox/firefox.svg) |
 
 <!--end:script-->
 
