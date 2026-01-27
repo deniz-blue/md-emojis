@@ -2,9 +2,7 @@
 
 Custom markdown emojis/icons for personal use
 
-Modified SVGs by hand: `therian`, `modfest`, `modrinth`
-
-Handmade SVGs: `plurality-simple`, `plurality-colors`
+Either heavily modified by me or handmade from scratch!
 
 Feel free to PR with new stuff :3
 
@@ -13,10 +11,10 @@ Feel free to PR with new stuff :3
 Format:
 
 ```html
-<img height="24" align="center" src="https://.../emojis/NAME">
+<img height="24" align="center" src="https://.../emojis/PATH">
 ```
 
-- Replace `NAME` with emoji ID from the list below
+- Replace `PATH` with emoji ID from the list below
 
 <!--start:script-->
 
@@ -29,10 +27,8 @@ Format:
 | <img height="24" align="center" src="./emojis/osu-outline-black.svg"> | `osu-outline-black.svg` | [Link](./emojis/osu-outline-black.svg) |
 | <img height="24" align="center" src="./emojis/osu-outline-white.svg"> | `osu-outline-white.svg` | [Link](./emojis/osu-outline-white.svg) |
 | <img height="24" align="center" src="./emojis/osu.png"> | `osu.png` | [Link](./emojis/osu.png) |
-| <img height="24" align="center" src="./emojis/plurality-colors.svg"> | `plurality-colors.svg` | [Link](./emojis/plurality-colors.svg) |
-| <img height="24" align="center" src="./emojis/plurality-simple.svg"> | `plurality-simple.svg` | [Link](./emojis/plurality-simple.svg) |
-| <img height="24" align="center" src="./emojis/thetadelta-black.svg"> | `thetadelta-black.svg` | [Link](./emojis/thetadelta-black.svg) |
-| <img height="24" align="center" src="./emojis/thetadelta-white.svg"> | `thetadelta-white.svg` | [Link](./emojis/thetadelta-white.svg) |
+| <img height="24" align="center" src="./emojis/react.svg"> | `react.svg` | [Link](./emojis/react.svg) |
+| <img height="24" align="center" src="./emojis/platform/android.svg"> | `platform/android.svg` | [Link](./emojis/platform/android.svg) |
 | <img height="24" align="center" src="./emojis/mc/hangar.png"> | `mc/hangar.png` | [Link](./emojis/mc/hangar.png) |
 | <img height="24" align="center" src="./emojis/mc/lodestone.png"> | `mc/lodestone.png` | [Link](./emojis/mc/lodestone.png) |
 | <img height="24" align="center" src="./emojis/mc/minecraft.png"> | `mc/minecraft.png` | [Link](./emojis/mc/minecraft.png) |
@@ -40,10 +36,18 @@ Format:
 | <img height="24" align="center" src="./emojis/mc/modfest.svg"> | `mc/modfest.svg` | [Link](./emojis/mc/modfest.svg) |
 | <img height="24" align="center" src="./emojis/mc/modrinth.svg"> | `mc/modrinth.svg` | [Link](./emojis/mc/modrinth.svg) |
 | <img height="24" align="center" src="./emojis/mc/spigot.png"> | `mc/spigot.png` | [Link](./emojis/mc/spigot.png) |
+| <img height="24" align="center" src="./emojis/identity/plurality-colors.svg"> | `identity/plurality-colors.svg` | [Link](./emojis/identity/plurality-colors.svg) |
+| <img height="24" align="center" src="./emojis/identity/plurality-simple.svg"> | `identity/plurality-simple.svg` | [Link](./emojis/identity/plurality-simple.svg) |
+| <img height="24" align="center" src="./emojis/identity/thetadelta-black.svg"> | `identity/thetadelta-black.svg` | [Link](./emojis/identity/thetadelta-black.svg) |
+| <img height="24" align="center" src="./emojis/identity/thetadelta-white.svg"> | `identity/thetadelta-white.svg` | [Link](./emojis/identity/thetadelta-white.svg) |
 | <img height="24" align="center" src="./emojis/firefox/firefox-dev.svg"> | `firefox/firefox-dev.svg` | [Link](./emojis/firefox/firefox-dev.svg) |
 | <img height="24" align="center" src="./emojis/firefox/firefox-furry-dev.png"> | `firefox/firefox-furry-dev.png` | [Link](./emojis/firefox/firefox-furry-dev.png) |
 | <img height="24" align="center" src="./emojis/firefox/firefox-furry.png"> | `firefox/firefox-furry.png` | [Link](./emojis/firefox/firefox-furry.png) |
 | <img height="24" align="center" src="./emojis/firefox/firefox.svg"> | `firefox/firefox.svg` | [Link](./emojis/firefox/firefox.svg) |
+| <img height="24" align="center" src="./emojis/denizblue/akiyama.svg"> | `denizblue/akiyama.svg` | [Link](./emojis/denizblue/akiyama.svg) |
+| <img height="24" align="center" src="./emojis/denizblue/discordjsx.svg"> | `denizblue/discordjsx.svg` | [Link](./emojis/denizblue/discordjsx.svg) |
+| <img height="24" align="center" src="./emojis/denizblue/eventsdenizblue.svg"> | `denizblue/eventsdenizblue.svg` | [Link](./emojis/denizblue/eventsdenizblue.svg) |
+| <img height="24" align="center" src="./emojis/denizblue/evnt.svg"> | `denizblue/evnt.svg` | [Link](./emojis/denizblue/evnt.svg) |
 
 <!--end:script-->
 

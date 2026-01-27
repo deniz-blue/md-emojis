@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    width="24"
+    height="24"
+    preserveAspectRatio="none"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+>
+    <mask id="mask">
+        <circle r="13" cx="12" cy="12" fill="white" />
+        <circle r="9" cx="12" cy="12" fill="black" />
+    </mask>
+    <foreignObject
+        x="0"
+        y="0"
+        width="24"
+        height="24"
+        mask="url(#mask)"
+    >
+        <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="
+            background-image: conic-gradient(from 270deg, #ff4800 10%, #dfd902 35%, #20dc68, #0092f4, #da54d8 72% 75%, #ff4800 95%);
+            width: 100%;
+            height: 100%;
+            "
+        />
+    </foreignObject>
+    <g
+        transform="scale(0.75)"
+        transform-origin="50% 50%"
+        stroke="#c9c9c9"
+    >
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <path d="M13 5h8" />
+        <path d="M13 9h5" />
+        <path d="M13 15h8" />
+        <path d="M13 19h5" />
+        <path d="M3 4m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z" />
+        <path d="M3 14m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z" />
+    </g>
+</svg>
