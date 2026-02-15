@@ -6,7 +6,7 @@ let lines = [
 ];
 
 const img = (src: string) => `<img height="24" align="center" src="${src}">`;
-for(let _file of globSync("./emojis/**/*.*")) {
+for(let _file of globSync("./emojis/**/*.svg")) {
     const file = _file.replaceAll("\\", "/");
     console.log(file);
     const id = file.split("/").slice(1).join("/");
